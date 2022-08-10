@@ -1,0 +1,20 @@
+﻿<h1>Fale Conosco</h1>
+<form name="meu_form" method="post">
+  <div id="fName">
+    <input type="text" id="name" placeholder="José Silva" required="required" name="nome" />
+    <label for="name">:Nome</label>
+  </div>
+  <div id="fTel">
+    <input type="tel" id="phone" placeholder="(xx)x-xxxx-xxxx (opcional)" name="fone" />
+    <label for="phone"> :Fone</label>
+  </div>
+  <div id="fEmail">
+    <input type="email" id="email" placeholder="josesilva@email.com" required="required" name="email" />
+    <label for="email"> :Email</label>
+  </div>
+  <div id="fText">
+    <textarea placeholder="Deixe sua mensagem" required></textarea>
+    <br>
+    <input type="submit" class="sub" onclick="send();" value="Enviar" />
+  </div>
+</form>

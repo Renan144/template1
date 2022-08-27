@@ -118,3 +118,5 @@ $(document).ready(function () {
 
 	});
 });
+
+/**** Renan Cerqueira Silva - Template 1 ****/

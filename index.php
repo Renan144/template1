@@ -7,6 +7,9 @@
 	<script type="text/javascript" src="scripts/jquery.js"></script>
 	<script type="text/javascript" src="scripts/scripts.js"></script>
 	<title>Template padr&atilde;o</title>
+	<?php 
+	/**** Renan Cerqueira Silva - Template 1 ****/
+	?>
 </head>
 
 <body>
